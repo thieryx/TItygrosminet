@@ -9,6 +9,8 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=flat)
+![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=flat-square)
+![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=plastic)
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/dusk/64/000000/css3.png)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
