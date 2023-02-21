@@ -9,22 +9,17 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=flat)
-![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=flat-square)
-![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=plastic)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=plastic)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=plastic)
+
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Matlab](https://img.icons8.com/fluency/48/000000/matlab.png)
-![Jupyter](https://user-images.githubusercontent.com/51937841/209330491-89c59d45-d0ef-4caf-aae6-f08bfdee4794.png)
-![Git](https://user-images.githubusercontent.com/51937841/209330070-70698d31-dc41-4bf2-993b-82b09234320b.png)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
 
 **Languages and Frameworks**
 
