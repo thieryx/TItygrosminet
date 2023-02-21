@@ -26,12 +26,12 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=clementinegrethen" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=TItygrosminet" />
     <span>&emsp;&emsp;</span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementinegrethen&layout=compact&langs_count=8" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TItygrosminet&layout=compact&langs_count=8" />
     <span>&emsp;&emsp;</span>
 </div>
 
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=clementinegrethen" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TItygrosminet" />
 </div>
