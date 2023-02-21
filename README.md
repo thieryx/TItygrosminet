@@ -1,12 +1,28 @@
 ### Hi there 👋
 
+### Languages
 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Ocaml](https://ocaml.org/logo.sv)
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS](https://img.icons8.com/dusk/64/000000/css3.png)
+
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Matlab](https://img.icons8.com/fluency/48/000000/matlab.png)
+![Jupyter](https://user-images.githubusercontent.com/51937841/209330491-89c59d45-d0ef-4caf-aae6-f08bfdee4794.png)
+![Git](https://user-images.githubusercontent.com/51937841/209330070-70698d31-dc41-4bf2-993b-82b09234320b.png)
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/51937841/209328160-a5e230dc-2898-4271-b940-cd88ff9574e3.png" alt="SQL" title="SQL"></code>
 <code><img height="20" src="https://ocaml.org/logo.svg" alt="OCaml" title="OCaml"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" title="CSS"></code>
