@@ -8,17 +8,25 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![OCaml Badge](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff&style=flat)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![OCaml](https://img.shields.io/badge/-OCaml-000?&logo=ocaml)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![Latex](https://img.shields.io/badge/-LaTeX-000?&logo=latex)
+![Julia](https://img.shields.io/badge/-Julia-000?&logo=julia)
 
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
+![GoogleColab](https://img.shields.io/badge/-GoogleColab-000?&logo=googlecolab)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![VScode](https://img.shields.io/badge/-VScode-000?&logo=visualstudiocode)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-000?&logo=androidstudio)
 
 
 ### Statistics
