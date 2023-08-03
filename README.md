@@ -33,6 +33,6 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=TItygrosminet" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=thieryx" />
     <span>&emsp;&emsp;</span>
 </div>
